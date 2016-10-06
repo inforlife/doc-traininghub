@@ -3,6 +3,7 @@ sectionid: roles_new
 sectionclass: h3
 title: Aggiungere un ruolo
 number: 2110
+parent_id: roles_index
 ---
 Per aggiungere un ruolo, è necessario definirne il nome e selezionare le attività consentite agli utenti associati a quel ruolo.
 Infine, per confermare la propria identità, è necessario inserire il codice di autenticazione generato con il proprio telefono [LINK].
