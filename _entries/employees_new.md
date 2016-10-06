@@ -1,14 +1,12 @@
 ---
-sectionid: create-employee
+sectionid: employees_new
 sectionclass: h2
-title: Creazione di un dipendente
+title: Aggiungere un dipendente
 number: 3100
 ---
-Per creare un nuovo dipendente è necessario definire nome, cognome e reparto di appartenenza, selezionabile da una lista predefinita.
+Per aggiungere un dipendente è necessario definirne il nome, il cognome e il reparto di appartenenza, selezionabile da una lista predefinita. Infine, per confermare la propria identità, è necessario inserire il codice di autenticazione generato con il proprio telefono [LINK].
 
-Affinchè la creazione del dipendente vada a buon fine, è necessario inserire nell'apposito campo il proprio codice di autenticazione.
-
-Dopo aver compilato il form in ogni sua parte, cliccare sul pulsante "Salva" per creare l'utente. Se invece si desidera cancellare i dati inseriti, cliccare su "Pulisci".
+Una volta inserite tutte le informazioni richieste premere SALVA. Premere invece PULISCI se si desidera eliminare tutti i valori inseriti.
 
 Se la creazione si è conclusa con successo, viene visualizzata la lista completa dei dipendenti attivi. In caso di errori, invece, viene mostrato il form di creazione con i suggerimenti per la loro correzione.
 
