@@ -1,6 +1,7 @@
 ---
 sectionid: employees
 sectionclass: h1
+is-parent: yes
 title: Dipendenti
 number: 3000
 ---
