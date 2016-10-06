@@ -1,5 +1,5 @@
 ---
-sectionid: access-management
+sectionid: access_management
 sectionclass: h1
 is-parent: yes
 title: Autenticazione & Autorizzazione
