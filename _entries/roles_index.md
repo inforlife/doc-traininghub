@@ -8,7 +8,7 @@ parent_id: access_management
 ---
 TrainingHub ha un sistema di autorizzazione basato su ruoli. Ad ogni utente è associato un ruolo che ne definisce le attività consentite.
 
-La lista dei ruoli mostra tutti i ruoli definiti nell’applicazione. Pe rogni ruolo è possibile consultarne i dettagli e quindi vedere le attività consentite per quel ruolo, oppure aggiornarlo nel caso si debba modificarne il nome stesso o le attività consentite agli utenti associati a quel ruolo.
+La lista dei ruoli mostra tutti i ruoli definiti nell’applicazione. Per ogni ruolo è possibile, premendo "Dettagli", consultarne i dettagli oppure, premendo "Aggiorna", aggiornarlo nel caso si debba modificarne il nome o le attività consentite agli utenti associati a quel ruolo.
 
 Per aggiungere un nuovo ruolo, premere il pulsante nell’angolo superiore destro con il segno +.
 
