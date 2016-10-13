@@ -1,0 +1,14 @@
+---
+sectionid: employees_disable
+sectionclass: h2
+title: Disattivare un dipendente
+number: 3300
+parent_id: employees_index
+---
+Dopo aver cliccato sul pulsante "Disattiva", posto in corrispondenza del nome del dipendente che si desidera disattivare, nella parte bassa della pagina viene visualizzato il form di conferma della propria identità.
+
+Anche in questo caso, per confermare la propria identità, è necessario inserire il codice di autenticazione generato con il proprio telefono [LINK].
+
+Premere quindi SALVA per procedere con la disattivazione del dipendente. Se invece si desidera abbandonare la disattivazione, è sufficiente cliccare in un punto qualsiasi della pagina in secondo piano.
+
+_Nota: Dopo essere stato disattivato, un dipendente non può più essere riattivato._
