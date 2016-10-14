@@ -11,4 +11,4 @@ Anche in questo caso, per confermare la propria identità, è necessario inserir
 
 Premere quindi SALVA per procedere con la disattivazione del dipendente. Se invece si desidera abbandonare la disattivazione, è sufficiente cliccare in un punto qualsiasi della pagina in secondo piano.
 
-_Nota: Dopo essere stato disattivato, un dipendente non può più essere riattivato._
+_Nota: La disattivazione deve avvenire solo al termine del rapporto lavorativo di un dipendente e non, ad esempio, in caso di assenza prolungata dello stesso. Dopo essere stato disattivato, un dipendente non può più essere riattivato, nè essere registrato come un partecipante ad un nuovo training. Il dipendente resta comunque nel sistema e sarà sempre possibile visualizzare lo storico delle sue attività di training._
