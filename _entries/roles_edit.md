@@ -2,7 +2,7 @@
 sectionid: roles_edit
 sectionclass: h3
 title: Aggiornare un ruolo
-number: 2120
+number: 2220
 parent_id: roles_index
 ---
 Quando si aggiorna un ruolo è possibile modificarne il nome oppure le attività consentite agli utenti associati a quel ruolo.
