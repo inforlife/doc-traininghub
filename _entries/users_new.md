@@ -12,4 +12,4 @@ Una volta inserite tutte le informazioni richieste premere SALVA. Premere invece
 
 Una volta creato, l'account deve essere approvato da chi di competenza prima che l'utente possa accedere all'applicazione.
 
-_Nota:  Il nome dell'utente e indirizzo di posta elettronica devono essere univoci._
+_Nota: L'indirizzo di posta elettronica deve essere univoco._
