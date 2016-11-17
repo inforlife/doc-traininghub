@@ -5,7 +5,7 @@ title: Approvare un utente
 number: 2130
 parent_id: users_index
 ---
-Un account dopo la creazione deve essere approvato prima di permetetre all'utente l'accesso all'applicazione.
+Un account dopo la creazione deve essere approvato prima di permettere all'utente l'accesso all'applicazione.
 
 Dopo aver cliccato sul pulsante "Approva", posto in corrispondenza del nome dell'utente che si desidera approvare, nella parte bassa della pagina viene visualizzato il form di conferma della propria identità.
 
