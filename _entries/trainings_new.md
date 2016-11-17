@@ -9,6 +9,6 @@ Per aprire un nuovo training è necessario definirne la descrizione e selezionar
 
 Una volta inserite tutte le informazioni richieste premere SALVA. Premere invece PULISCI se si desidera eliminare tutti i valori inseriti.
 
-Se la creazione si è conclusa con successo, vengono visualizzati i dettagli del training appena aperto, da questa pagina i dipendenti potranno registrare la loro partecipazione. In caso di errori, invece, viene mostrato il form di creazione con i suggerimenti per la loro correzione.
+Se la creazione si è conclusa con successo, viene visualizzata la pagina in cui i dipendenti potranno registrare la loro partecipazione. In caso di errori, invece, viene mostrato il form di creazione con i suggerimenti per la loro correzione.
 
 _Nota: Premendo il pulsante SALVA, viene definita l'ora di inizio del training. Il training deve quindi essere aperto nel momento in cui l'istruttore inizia effettivamente le attività di addestramento._
