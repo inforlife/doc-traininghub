@@ -1,11 +1,11 @@
 ---
-sectionid: trainings_close
+sectionid: trainings_mark_as_executed
 sectionclass: h2
 title: Terminare un training
 number: 4300
 parent_id: trainings_index
 ---
-Dalla pagina in cui vengono registrati i partecipanti, è possibile anche dichiarare la conclusione del training, cliccando sul pulsante 'Termina il training'.
+Dalla pagina in cui vengono registrati i partecipanti, è possibile anche dichiarare la conclusione del training, cliccando sul pulsante 'Termina'.
 
 Anche in questo caso, per confermare la propria identità, è necessario inserire il codice di autenticazione generato con il proprio telefono [LINK].
 
