@@ -15,6 +15,7 @@ Se il codice identificativo è corretto, il dipendente viene salvato e i suoi de
 _Note: I dipendenti disattivati non possono essere registrati come partecipanti di un training. Lo stesso dipendente non può registrarsi più volte per la stessa sessione di training._ 
 
 Per dichiarare la conclusione del training, cliccare sul pulsante 'Termina'.
+Se necessario, inserire il proprio commento nel relativo campo. 
 Anche in questo caso, per confermare la propria identità, è necessario inserire il codice di autenticazione generato con il proprio telefono [LINK].
 Premere quindi SALVA per procedere con la registrazione della conclusione del training. 
 
