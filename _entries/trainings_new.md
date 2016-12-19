@@ -1,7 +1,7 @@
 ---
 sectionid: trainings_new
 sectionclass: h2
-title: Aprire un training
+title: Creare un training
 number: 4100
 parent_id: trainings_index
 ---
@@ -11,6 +11,4 @@ _Nota: Nel caso di training relativo ad una procedura, il codice del training co
 
 Una volta inserite tutte le informazioni richieste premere SALVA.
 
-Se la creazione si è conclusa con successo, viene visualizzata la pagina dei dettagli del training, in cui i dipendenti potranno registrare la loro partecipazione. In caso di errori, invece, viene mostrato il form di creazione con i suggerimenti per la loro correzione.
-
-_Nota: Premendo il pulsante SALVA, viene definita l'ora di inizio del training. Il training deve quindi essere aperto nel momento in cui l'istruttore inizia effettivamente le attività di addestramento._
+Se la creazione si è conclusa con successo, viene visualizzata la lista dei training creati e in attesa di apertura. In caso di errori, invece, viene mostrato il form di creazione con i suggerimenti per la loro correzione.
