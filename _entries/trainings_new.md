@@ -11,4 +11,4 @@ _Nota: Nel caso di training relativo ad una procedura, il codice del training co
 
 Una volta inserite tutte le informazioni richieste premere SALVA.
 
-Se la creazione si è conclusa con successo, viene visualizzata la lista dei training creati e in attesa di apertura. In caso di errori, invece, viene mostrato il form di creazione con i suggerimenti per la loro correzione.
+Se la creazione si è conclusa con successo, viene visualizzata la lista dei training in attesa di esecuzione. In caso di errori, invece, viene mostrato il form di creazione con i suggerimenti per la loro correzione.
