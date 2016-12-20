@@ -1,9 +1,9 @@
 ---
-sectionid: users_approve
+sectionid: admin_users_approve
 sectionclass: h3
 title: Approvare un utente
-number: 2130
-parent_id: users_index
+number: 3130
+parent_id: admin_users_index
 ---
 Un account dopo la creazione deve essere approvato prima di permettere all'utente l'accesso all'applicazione.
 

@@ -1,9 +1,9 @@
 ---
-sectionid: employees_details
+sectionid: admin_employees_details
 sectionclass: h2
 title: Dettagli di un dipendente
-number: 3400
-parent_id: employees_index
+number: 3330
+parent_id: admin_employees_index
 ---
 Dalla pagina relativa ai dettagli di un dipendente è possibile stampare la sua etichetta identificativa, cliccando sul pulsante 'Stampa etichetta identificativa'.
 
