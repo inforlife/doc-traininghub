@@ -1,6 +1,6 @@
 ---
 sectionid: admin_employees_details
-sectionclass: h2
+sectionclass: h3
 title: Dettagli di un dipendente
 number: 3330
 parent_id: admin_employees_index

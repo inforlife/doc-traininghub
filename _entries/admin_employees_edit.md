@@ -1,6 +1,6 @@
 ---
 sectionid: admin_employees_edit
-sectionclass: h2
+sectionclass: h3
 title: Aggiornare un dipendente
 number: 3320
 parent_id: admin_employees_index

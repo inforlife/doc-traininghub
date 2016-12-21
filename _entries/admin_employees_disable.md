@@ -1,6 +1,6 @@
 ---
 sectionid: admin_employees_disable
-sectionclass: h2
+sectionclass: h3
 title: Disattivare un dipendente
 number: 3340
 parent_id: admin_employees_index

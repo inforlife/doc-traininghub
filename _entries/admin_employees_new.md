@@ -1,6 +1,6 @@
 ---
 sectionid: admin_employees_new
-sectionclass: h2
+sectionclass: h3
 title: Aggiungere un dipendente
 number: 3310
 parent_id: admin_employees_index
