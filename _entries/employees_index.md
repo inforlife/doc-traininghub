@@ -2,14 +2,13 @@
 sectionid: employees_index
 sectionclass: h1
 is-parent: yes
-title: Dipendenti
-number: 3000
+title: Gestione Dipendenti
+number: 5000
 ---
-La lista dei dipendenti mostra di default tutti i dipendenti attivi presenti nell’applicazione. Per ogni dipendente attivo è possibile, premendo "Dettagli", consultarne i dettagli; aggiornarlo, premendo "Aggiorna", nel caso si debba modificarne i dettagli oppure, premendo "Disattiva", disattivarlo nel caso in cui sia terminato il suo rapporto lavorativo.
+La lista dei dipendenti permette di consultare tutti i training sostenuti da un dipendente.
+Per ogni dipendente sono visualizzati il nome, il dipartimento a cui fa riferimento, le mansioni a lui assegnate ed il numero totale di training completati. Nel caso in cui il dipendente abbia sostenuto almeno un training è presente un link che permette di vedere i dettagli dei training.
+Dipendenti attivi sono identificati da sfondo chiaro, mentre quelli disabilitati hanno sfondo più scuro.
 
-I dipendenti sono visualizzati in ordine alfabetico e suddivisi su più pagine. Per scorrere le pagine utilizzare i link presenti sotto la lista.
+Nel caso si voglia visualizzare solamente un sottoinsieme dei dipendenti, si deve utilizzare il filtro che si trova sopra i dipendenti. Facendo click supra la barra sono mostrati tutti i dettagli di utilizzo del filtro.
 
-Per aggiungere un nuovo dipendente, premere il pulsante nell’angolo superiore destro con il segno +.
-
-
-Per accedere alla lista dei dipendenti disattivati, premere il pulsante VEDI DISATTIVATI. Per ogni dipendente disattivato è possibile solo consultarne i dettagli, premendo "Dettagli", non è possibile aggiornarlo o riattivarlo. Per tornare alla lista dei dipendenti attivit, cliccare sul pulsante VEDI ATTIVI.
+_Nota: La lista include solamente i dipendenti per i quali è stata stampata almeno una etichetta identificativa._

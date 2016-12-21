@@ -1,9 +1,9 @@
 ---
-sectionid: employees_disable
+sectionid: admin_employees_disable
 sectionclass: h2
 title: Disattivare un dipendente
-number: 3300
-parent_id: employees_index
+number: 3340
+parent_id: admin_employees_index
 ---
 Dopo aver cliccato sul pulsante "Disattiva", posto in corrispondenza del nome del dipendente che si desidera disattivare, nella parte bassa della pagina viene visualizzato il form di conferma della propria identità.
 
