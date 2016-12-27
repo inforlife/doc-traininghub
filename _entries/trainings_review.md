@@ -2,7 +2,7 @@
 sectionid: trainings_grade
 sectionclass: h2
 title: Verificare un training
-number: 4400
+number: 4500
 parent_id: trainings_index
 ---
 Dalla pagina relativa ai dettagli di un training valutato è possibile rivedere tutti i dettagli del training per poterne completare la verifica.
