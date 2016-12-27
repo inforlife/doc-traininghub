@@ -2,7 +2,7 @@
 sectionid: trainings_grade
 sectionclass: h2
 title: Valutare un training
-number: 4300
+number: 4400
 parent_id: trainings_index
 ---
 Dalla pagina relativa ai dettagli di un training eseguito è possibile assegnare una valutazione a ciascuno dei partecipanti e quindi completare la valutazione della sessione.
