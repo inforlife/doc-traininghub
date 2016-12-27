@@ -12,7 +12,7 @@ La ricerca storico training permette di trovare partecipazioni ad uno o più tra
  - Luogo: Il luogo in cui il training è satto effettuato.
  - Codice training: Il codice del training (nel caso di training relativo a SOP, questo codice è quello della SOP).
  - Edizione SOP training: L'edizione della SOP per cui è stato effettuato il training.
- - Data esecuzione training: Data di esecuzione del training. Nel caso si vogliono visualizzare le partecipazioni a training effettuati in una specifica data, digitare la data nel formato DDMMYY. Se invece si vogliono visualizzare le partecipazioni a training effettuati in un intervallo temporale digitare lgli estremi dell'intervallo nel formato DDMMYY-DDMMYY. Nel caso in cui il valore digitato non soddisfa tali vincoli il valore inserito sarà ignorato.
+ - Data esecuzione training: Data di esecuzione del training. Nel caso si vogliono visualizzare le partecipazioni a training effettuati in una specifica data, digitare la data nel formato DDMMYY. Se invece si vogliono visualizzare le partecipazioni a training effettuati in un intervallo temporale digitare gli estremi dell'intervallo nel formato DDMMYY-DDMMYY. Nel caso in cui il valore digitato non soddisfa tali vincoli il valore inserito sarà ignorato.
  - Dipartimento: Il dipartimento di appartenenza dei dipendenti che hanno partecipato al training.
  - Mansione: La mansione dei dipendenti che hanno partecipato al training.
 
