@@ -1,6 +1,6 @@
 ---
 sectionid: password_update
-sectionclass: h3
+sectionclass: h2
 title: Aggiornamento password
 number: 2100
 parent_id: access_management
