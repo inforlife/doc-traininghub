@@ -26,9 +26,9 @@ Quando il caricamento dell'allegato è concluso, il nome del file viene visualiz
 
 _Nota: è possibile caricare qualsiasi tipo di file (pdf, immagine, documento Word, Excel, Power Point, etc.) ad eccezione dei file eseguibili. Nel caso in cui il formato del file non è consentito, viene visualizzato un apposito messaggio di errore dopo aver sottomesso il form._
 
-Per ciascun allegato è possibile scaricarne una copia, premendo il pulsante "Download", o disattivarlo, cliccando su "Disattiva". 
+Per ciascun allegato è possibile scaricarne una copia, premendo il pulsante "Download", o eliminarlo, cliccando su "Elimina". 
 
-Per disattivare un allegato è necessario inserire il codice di autenticazione generato con il proprio telefono [LINK] per confermare la propria identità e successivamente premere SALVA.
-Quando la disattivazione dell'allegato è concluso, il nome del file non è più visualizzato nella lista degli allegati.
+Per eliminare un allegato è necessario inserire il codice di autenticazione generato con il proprio telefono [LINK] per confermare la propria identità e successivamente premere SALVA.
+Quando l'eliminazione dell'allegato è conclusa, il nome del file non è più visualizzato nella lista degli allegati.
 
-_Nota: Disattivando l'allegato, si elimina il file ad esso associato, che non sarà più disponibile in alcun modo. Il record relativo all'allegato resta a sistema ed è disponibile nell'audit del training._
+_Nota: Eliminando l'allegato, si elimina il file ad esso associato, che non sarà più disponibile in alcun modo. Il record relativo all'allegato resta a sistema ed è disponibile nell'audit del training._
