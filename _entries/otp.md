@@ -5,7 +5,7 @@ title: Codice di autenticazione personale
 number: 2110
 parent_id: password_update
 ---
-Per garantire l'identità degli utenti, TrainingHub utilizza autenticazione a due fattori. Questo significa che per poter accedere a TrainingHub (e successivamente autenticare le operazioni da te svolte) l'utente deve essere in possesso di un codice di autenticazione personale con validità temporanea limitata. Il modo più semplice e sicuro per generare tali codici è tramite uno smartphone.
+Per garantire l'identità degli utenti, TrainingHub utilizza autenticazione a due fattori. Questo significa che per poter accedere a TrainingHub (e successivamente autenticare le operazioni svolte) l'utente deve essere in possesso di un codice di autenticazione personale con validità temporanea limitata. Il modo più semplice e sicuro per generare tali codici è tramite uno smartphone.
 
 Per essere in grado di creare i propri codici di autenticazione personali, l'utente deve eseguire i passi riportati sotto.
 
