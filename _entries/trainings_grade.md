@@ -17,5 +17,5 @@ In caso di errori, la valutazione assegnata ad un partecipante può essere corre
 
 Dopo aver completato la valutazione per tutti i partecipanti al training, viene visualizzato il pulsante 'Completa valutazione'. Cliccare su di esso per dichiarare la conclusione del processo di valutazione.
 Se necessario, inserire il proprio commento nel relativo campo.
-Anche in questo caso, per confermare la propria identità, è necessario inserire il codice di autenticazione generato con il proprio telefono [LINK].
+Anche in questo caso, per confermare la propria identità, è necessario inserire <a href="https://acsinfo.github.io/traininghub/#otp">il codice di autenticazione generato con il proprio telefono</a>.
 Premere quindi SALVA per procedere con la registrazione della conclusione della valutazione. Verrà inviata una notifica a tutti gli utenti aventi il privilegio di 'Revisione training' per richiedere la loro approvazione.

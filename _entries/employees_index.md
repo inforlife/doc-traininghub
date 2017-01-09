@@ -2,7 +2,7 @@
 sectionid: employees_index
 sectionclass: h1
 is-parent: yes
-title: Gestione Dipendenti
+title: Gestione dipendenti
 number: 5000
 ---
 La lista dei dipendenti permette di consultare tutti i training sostenuti da un dipendente.

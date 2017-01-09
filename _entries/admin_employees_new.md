@@ -5,7 +5,7 @@ title: Aggiungere un dipendente
 number: 3310
 parent_id: admin_employees_index
 ---
-Per aggiungere un dipendente è necessario definirne il nome, il cognome, il dipartimento di appartenenza, la data di assunzione e le mansioni. Infine, per confermare la propria identità, è necessario inserire il codice di autenticazione generato con il proprio telefono [LINK].
+Per aggiungere un dipendente è necessario definirne il nome, il cognome, il dipartimento di appartenenza, la data di assunzione e le mansioni. Infine, per confermare la propria identità, è necessario <a href="https://acsinfo.github.io/traininghub/#otp">il codice di autenticazione generato con il proprio telefono</a>.
 
 Una volta inserite tutte le informazioni richieste premere SALVA.
 
