@@ -7,7 +7,9 @@ parent_id: trainings_index
 ---
 Dalla pagina relativa ai dettagli di un training eseguito è possibile assegnare una valutazione a ciascuno dei partecipanti e quindi completare la valutazione della sessione.
 
-Sotto la voce "Partecipanti registrati", sono elencati i partecipanti al training. Per ciascuno di essi, oltre al nome e al reparto di appartenenza, è visualizzata l'ora in cui si è registrato al training. Per i partecipanti già valutati, vengono inoltre mostrati l'esito, l'eventuale percentuale di risposte corrette e, se definiti, il commento dell'istruttore e il link per scaricare l'allegato.
+Sotto la voce "Partecipanti registrati", sono elencati i partecipanti al training. Per ciascuno di essi, oltre al nome e al reparto di appartenenza, è visualizzato l'orario di registrazione (inizio - fine). Per i partecipanti già valutati, vengono inoltre mostrati l'esito, l'eventuale percentuale di risposte corrette e, se definiti, il commento dell'istruttore e il link per scaricare l'allegato.
+
+_Nota: L'esito viene visualizzato con il colore assegnato al nome del partecipante. Se l'esito è positivo, il nome del partecipante è verde, se è negativo il nome è rosso._
 
 Per assegnare una valutazione a un partecipante, completare il form posto sotto la voce "Valuta partecipante". Per fare ciò, selezionare il nome del partecipante e il relativo esito ed inserire l'eventuale percentuale di risposte corrette.
 Se necessario è possibile caricare un allegato. Per fare ciò cliccare nell'apposito campo e selezionare il file dal proprio file system. In alternativa è possibile anche trascinare direttamente l'allegato nello stesso campo.
