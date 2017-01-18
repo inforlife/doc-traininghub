@@ -11,3 +11,4 @@ Infine, per confermare la propria identità, è necessario inserire <a href="htt
 Una volta inserite tutte le informazioni richieste premere SALVA.
 
 _Nota:  Il nome del ruolo deve essere univoco._
+_Nota:  L'attività 'ricerca training' è automaticamente inclusa quando si seleziona una qualunque altra attività._
