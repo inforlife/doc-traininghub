@@ -13,8 +13,9 @@ Una volta inserite tutte le informazioni richieste premere SALVA.
 
 Se la creazione si è conclusa con successo, viene visualizzata la lista dei training in attesa di esecuzione. In caso di errori, invece, viene mostrato il form di creazione con i suggerimenti per la loro correzione.
 
+Dalla lista dei training in attesa di esecuzione è possibile, cliccando 'Aggiorna', aggiornare i dettagli del training, se invece si desidera iniziare l'esecuzione del training cliccare sul pulsante 'Dettagli'.
 
-Per ciascun training creato e non ancora iniziato è possibile definire la lista di allegati. Tale lista deve includere il materiale didattico utilizzato durante il training.
+Per ciascun training creato e non ancora iniziato è inoltre possibile definire la lista di allegati. Tale lista deve includere il materiale didattico utilizzato durante il training.
 Gli allegati sono associati all'argomento del training (codice ed edizione) e sono quindi condivisi tra training diversi aventi stesso codice ed edizione.
 
 Per visualizzare la lista degli allegati di un training, cliccare sul pulsante "Gestisci allegati" posto in corrispondenza del training desiderato nella lista dei training creati.

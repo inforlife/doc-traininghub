@@ -5,6 +5,11 @@ title: Iniziare un training
 number: 4200
 parent_id: trainings_index
 ---
+Dalla pagina relativa ai dettagli di un training creato, è possibile aprire il training cliccando su 'Inizia registrazioni'.
+Se necessario, inserire il proprio commento nel relativo campo. Per confermare la propria identità, è necessario inserire <a href="https://acsinfo.github.io/traininghub/#otp">il codice di autenticazione generato con il proprio telefono</a>.
+Premere quindi SALVA per procedere con la registrazione dell'apertura del training. 
+
+
 Prima di dichiarare l'inizio effettivo di un training è necessario registrare tutti i partecipanti.
 
 _Nota: Dopo aver dichiarato l'inizio del training nessun dipendente può più essere aggiunto come partecipante._
