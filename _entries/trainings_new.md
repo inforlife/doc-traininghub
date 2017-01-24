@@ -5,7 +5,7 @@ title: Creare un training
 number: 4100
 parent_id: trainings_index
 ---
-Per aprire un nuovo training è necessario definirne la descrizione, il codice, l'edizione, l'eventuale data dell'edizione e selezionare dalle liste predefinite il luogo di esecuzione e la modalità di verifica. Infine, per confermare la propria identità, è necessario inserire <a href="https://acsinfo.github.io/traininghub/#otp">il codice di autenticazione generato con il proprio telefono</a>.
+Per aprire un nuovo training è necessario definirne la descrizione, il codice, l'edizione, l'eventuale data dell'edizione e selezionare dalle liste predefinite la motivazione, il luogo di esecuzione e la modalità di verifica. Infine, per confermare la propria identità, è necessario inserire <a href="https://acsinfo.github.io/traininghub/#otp">il codice di autenticazione generato con il proprio telefono</a>.
 
 _Nota: Nel caso di training relativo ad una procedura, il codice del training corrisponde al codice della SOP e la data dell'edizione corrisponde alla data di scrittura della SOP._
 
