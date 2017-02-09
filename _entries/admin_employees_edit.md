@@ -6,7 +6,7 @@ number: 3320
 parent_id: admin_employees_index
 ---
 Quando si aggiorna un dipendente è possibile modificarne il nome, il cognome e il dipartimento.
-Anche in questo caso, per confermare la propria identità, è necessario inserire <a href="https://acsinfo.github.io/traininghub/#otp">il codice di autenticazione generato con il proprio telefono</a>.
+Anche in questo caso, per confermare la propria identità, è necessario inserire <a href="https://inforlife.github.io/traininghub/#otp">il codice di autenticazione generato con il proprio telefono</a>.
 
 Una volta modificato il dipendente premere SALVA.
 
