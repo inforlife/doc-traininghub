@@ -7,4 +7,4 @@ parent_id: password_update
 ---
 
 Per definire la propria password inserire e confermare la password prescelta.
-Non ci sono vincoli di complessità sulle password utilizzabili. I valori digitati nei campi password sono inizialmente visibili dato che nella maggioranza dei casi questa operazione è eseguita quando l'utente si trova da solo. Nel caso si volesse proteggere i valori inseriti, premere "Nascondi Password".
+Non ci sono vincoli di complessità sulle password utilizzabili. I caratteri digitati nei campi password non sono inizialmente visibili. Nel caso si volesse visualizzare i caratteri inseriti, premere "Visualizza Password" o l'icona dell'occhio alla sinistra del campo.
