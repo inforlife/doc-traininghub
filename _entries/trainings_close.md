@@ -15,7 +15,7 @@ Se il codice identificativo è corretto, la partecipazione del dipendente, visua
 
 Per dichiarare la fine del training, cliccare sul pulsante 'Termina training'.
 Se necessario, inserire il proprio commento nel relativo campo. 
-Anche in questo caso, per confermare la propria identità, è necessario inserire <a href="https://inforlife.github.io/traininghub/#otp">il codice di autenticazione generato con il proprio telefono</a>.
+Anche in questo caso, per confermare la propria identità, è necessario inserire la propria password o, se attivato, <a href="https://inforlife.github.io/traininghub/#otp">il codice di autenticazione generato con il proprio telefono</a>.
 Premere quindi SALVA per procedere con la registrazione della fine del training.
 
 _Nota: Premendo il pulsante SALVA, viene definita l'ora di fine del training. Il training deve quindi essere dichiarato come finito nel momento in cui l'istruttore termina effettivamente le attività di addestramento._

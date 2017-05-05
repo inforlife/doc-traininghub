@@ -25,7 +25,7 @@ _Nota: Sostituendo l'allegato, si elimina il file precedentemente caricato, che 
 
 Dopo aver completato la valutazione per tutti i partecipanti al training, viene visualizzato il pulsante 'Completa valutazione'. Cliccare su di esso per dichiarare la conclusione del processo di valutazione.
 Se necessario, inserire il proprio commento nel relativo campo.
-Anche in questo caso, per confermare la propria identità, è necessario inserire <a href="https://inforlife.github.io/traininghub/#otp">il codice di autenticazione generato con il proprio telefono</a>.
+Anche in questo caso, per confermare la propria identità, è necessario inserire la propria password o, se attivato, <a href="https://inforlife.github.io/traininghub/#otp">il codice di autenticazione generato con il proprio telefono</a>.
 Premere quindi SALVA per procedere con la registrazione della conclusione della valutazione. 
 
 Se il training non prevede la fase di autorizzazione, verrà inviata una notifica a tutti gli utenti aventi il privilegio di 'Revisione training' per richiedere la loro approvazione.
