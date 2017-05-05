@@ -7,7 +7,7 @@ parent_id: admin_employees_index
 ---
 Dopo aver cliccato sul pulsante "Disattiva", posto in corrispondenza del nome del dipendente che si desidera disattivare, nella parte bassa della pagina viene visualizzato il form di conferma della propria identità.
 
-Anche in questo caso, per confermare la propria identità, è necessario inserire <a href="https://inforlife.github.io/traininghub/#otp">il codice di autenticazione generato con il proprio telefono</a>.
+Anche in questo caso, per confermare la propria identità, è necessario inserire la propria password o, se attivato, <a href="https://inforlife.github.io/traininghub/#otp">il codice di autenticazione generato con il proprio telefono</a>.
 
 Premere quindi SALVA per procedere con la disattivazione del dipendente. Se invece si desidera abbandonare la disattivazione, è sufficiente cliccare in un punto qualsiasi della pagina in secondo piano.
 
