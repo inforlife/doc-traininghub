@@ -6,8 +6,7 @@ number: 3220
 parent_id: admin_roles_index
 ---
 Quando si aggiorna un ruolo è possibile modificarne il nome oppure le attività consentite agli utenti associati a quel ruolo.
-Anche in questo caso, per confermare la propria identità, è necessario inserire la propria password o, se attivato, <a href="https://inforlife.github.io/traininghub/#otp">il codice di autenticazione generato con il proprio telefono</a>.
 
-Una volta modificato il ruolo premere SALVA.
+Una volta modificato il ruolo confermare la propria identità inserendo la password e premere SALVA.
 
-_Nota:  Il nome del ruolo deve essere univoco._
+_Nota: Il nome del ruolo deve essere univoco._
