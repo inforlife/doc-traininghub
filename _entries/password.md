@@ -2,7 +2,7 @@
 sectionid: password
 sectionclass: h3
 title: Password
-number: 2120
+number: 2110
 parent_id: password_update
 ---
 
