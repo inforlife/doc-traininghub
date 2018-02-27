@@ -9,8 +9,6 @@ L'accesso a TrainingHub e la possibilità di eseguire una particolare attività 
 
 Gli account sono da intendersi strettamente personali ed è severamente proibito fornire le proprie credenziali ad altre persone.
 
-TrainingHub richiede la conferma della propria identità prima di creare (o modificare) dati.
-Questo può avvenire tramite l'inserimento della propria password o di un codice di autenticazione personale. Il meccanismo utilizzato è definito a livello applicazione e non può essere modificato dagli utenti. 
-
+TrainingHub richiede la conferma della propria identità, mediante l'inserimento della password, prima di creare (o modificare) dati.
 
 _Nota: Nel caso in cui non siate in possesso di un account, contattare l’ufficio IT per ottenerne uno._

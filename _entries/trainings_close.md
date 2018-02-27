@@ -15,16 +15,14 @@ Se il codice identificativo è corretto, la partecipazione del dipendente, visua
 
 Per dichiarare la fine del training, cliccare sul pulsante 'Termina training'.
 Se necessario, inserire il proprio commento nel relativo campo. 
-Anche in questo caso, per confermare la propria identità, è necessario inserire la propria password o, se attivato, <a href="https://inforlife.github.io/traininghub/#otp">il codice di autenticazione generato con il proprio telefono</a>.
-Premere quindi SALVA per procedere con la registrazione della fine del training.
+Confermare la propria identità inserendo la password e premere SALVA per procedere con la registrazione della fine del training.
 
 _Nota: Premendo il pulsante SALVA, viene definita l'ora di fine del training. Il training deve quindi essere dichiarato come finito nel momento in cui l'istruttore termina effettivamente le attività di addestramento._
 
 Dopo che il training è stato dichiarato come finito, tutti i partecipanti devono eseguire il check-out in modo tale da registrare il periodo effettivo di partecipazione al training. Anche in questo caso, è necessario posizionarsi nel campo "Codice identificativo dipendente", scansionare il barcode del dipendente con apposito lettore e premere il tasto invio.
 Se il codice identificativo è corretto, la partecipazione del dipendente, visualizzata sotto la voce "Partecipanti registrati", viene aggiornata indicando l'ora di check-out.
 
-Quando tutti i partecipanti hanno eseguito il check-out, l'istruttore deve dichiarare la chiusura effettiva del training. Ciò può essere fatto dalla pagina relativa ai dettagli di un training finito, cliccando sul pulsante 'Chiudi training'. 
-Anche in questo caso inserire, se necessario, il proprio commento nel relativo campo e confermare la propria identità con <a href="https://inforlife.github.io/traininghub/#otp">il codice di autenticazione generato con il proprio telefono</a>. 
-Premere quindi SALVA per procedere con la chiusura del training.
+Quando tutti i partecipanti hanno eseguito il check-out, l'istruttore deve dichiarare la chiusura effettiva del training. Ciò può essere fatto dalla pagina relativa ai dettagli di un training finito, cliccando sul pulsante 'Chiudi training'.
+Confermare la propria identità inserendo la password e premere SALVA per procedere con la chiusura del training.
 
 _Nota: Se per qualsiasi motivo un dipendente non ha eseguito il check-out e non è più presente nel luogo di esecuzione del training, l'istruttore può comunque procedere alla chiusura del training, segnalando nei commenti l'anomalia riscontrata._

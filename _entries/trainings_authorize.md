@@ -15,6 +15,5 @@ Per autorizzare un dipendente, completare il form posto sotto la voce "Autorizza
 
 Dopo aver rivisto tutte le informazioni visualizzate nella pagina, per completare la fase di autorizzazione, cliccare sul pulsante 'Completa autorizzazione'.
 Inserire, se necessario, il proprio commento nel relativo campo. 
-Anche in questo caso, per confermare la propria identità, è necessario inserire la propria password o, se attivato, <a href="https://inforlife.github.io/traininghub/#otp">il codice di autenticazione generato con il proprio telefono</a>.
 
-Premere quindi SALVA per procedere con la registrazione della conclusione delle autorizzazioni. Verrà inviata una notifica a tutti gli utenti aventi il privilegio di 'Revisione training' per richiedere la loro approvazione.
+Per procedere con la registrazione della conclusione delle autorizzazioni confermare la propria identità inserendo la password e premere SALVA. Verrà inviata una notifica a tutti gli utenti aventi il privilegio di 'Revisione training' per richiedere la loro approvazione.

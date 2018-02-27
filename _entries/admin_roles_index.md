@@ -12,4 +12,4 @@ La lista dei ruoli mostra tutti i ruoli definiti nell’applicazione. Per ogni r
 
 Per aggiungere un nuovo ruolo, premere il pulsante nell’angolo superiore destro con il segno +.
 
-_Nota:  I ruoli non possono essere disattivati. Nel caso in cui un ruolo non sia più necessario, basta semplicemente non assegnarlo a nessun utente._
+_Nota: I ruoli non possono essere disattivati. Nel caso in cui un ruolo non sia più necessario, basta semplicemente non assegnarlo a nessun utente._
