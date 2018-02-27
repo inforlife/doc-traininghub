@@ -18,8 +18,6 @@ Sostituendo l'allegato, si elimina il file precedentemente caricato dall'istrutt
 
 Dopo aver rivisto tutte le informazioni visualizzate nella pagina, per completare la verifica, cliccare sul pulsante 'Completa verifica'.
 Inserire, se necessario, il proprio commento nel relativo campo. 
-<<<<<<< HEAD
-Anche in questo caso, per confermare la propria identità, è necessario inserire la propria password o, se attivato, <a href="https://inforlife.github.io/traininghub/#otp">il codice di autenticazione generato con il proprio telefono</a>.
 
 Confermare la propria identità inserendo la password e premere SALVA per procedere con la registrazione della conclusione della verifica.
 
