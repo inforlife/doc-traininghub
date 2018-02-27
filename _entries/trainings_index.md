@@ -11,4 +11,4 @@ La lista dei training da eseguire mostra l'elenco di tutti i training creati dal
 
 La lista dei training eseguiti mostra l'elenco di tutti i training terminati per i quali gli istruttori devono completare la valutazione. Per ciascun training eseguito, l'istruttore può, premendo "Valuta", procedere alla valutazione.
 
-La lista dei training valutati mostra l'elenco di tutti i training valutati dagli istruttori per i quali è necessaria la verifica. Per ciascun training valutato, gli utenti con il privilegio di 'Revisione training' possono, premendo "Verifica", procedere alla verifica.
+La lista dei training valutati mostra l'elenco di tutti i training valutati dagli istruttori per i quali è necessaria la verifica. Per ciascun training valutato, gli utenti con il privilegio di 'Revisione training' possono, premendo "Aggiorna", correggerne i dettagli, oppure premendo "Verifica", procedere alla verifica.
