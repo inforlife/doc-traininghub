@@ -13,4 +13,4 @@ La lista dei training eseguiti mostra l'elenco di tutti i training terminati per
 
 La lista dei training in attesa di autorizzazione mostra l'elenco di tutti i training valutati dagli istruttori per i quali è necessaria l'autorizzazione a seguito del periodo di affiancamento. Per ciascun training, l'autorizzatore può, premendo "Autorizza", procedere all'autorizzazione.
 
-La lista dei training valutati mostra l'elenco di tutti i training valutati dagli istruttori per i quali è necessaria la verifica. Per ciascun training valutato, gli utenti con il privilegio di 'Revisione training' possono, premendo "Verifica", procedere alla verifica.
+La lista dei training valutati mostra l'elenco di tutti i training valutati dagli istruttori per i quali è necessaria la verifica. Per ciascun training valutato, gli utenti con il privilegio di 'Revisione training' possono, premendo "Aggiorna", correggerne i dettagli, oppure premendo "Verifica", procedere alla verifica.
