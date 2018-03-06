@@ -17,6 +17,8 @@ La ricerca storico training permette di trovare partecipazioni ad uno o più tra
  - Dipartimento: Il dipartimento di appartenenza dei dipendenti che hanno partecipato al training.
  - Mansione: La mansione dei dipendenti che hanno partecipato al training.
 
+I risultati sono ordinati per data decrescente di esecuzione training (il più recente in alto). È possibile riordinare i risultati premendo l'intestazione della colonna desiderata.
+
 Per ogni partecipazione è possibile accedere al dettaglio del training premendo "Dettagli".
 
 _Nota: Nel caso si volesse effettuare una ricerca per dipendente singolo, utilizzare le funzionalità di filtro presenti nello storico dei training del dipendente._
