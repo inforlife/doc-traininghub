@@ -20,5 +20,3 @@ Dopo aver rivisto tutte le informazioni visualizzate nella pagina, per completar
 Inserire, se necessario, il proprio commento nel relativo campo. 
 
 Confermare la propria identità inserendo la password e premere SALVA per procedere con la registrazione della conclusione della verifica.
-
-_Nota: Quando un utente con privilegio di 'Revisione training' entra per la prima volta nella pagina di verifica di un training, questo viene assegnato a lui che sarà l'unico utente in grado di completare la verifica. Gli altri revisori non lo vedranno più tra i training da verificare._
