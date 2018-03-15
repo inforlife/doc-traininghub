@@ -7,7 +7,7 @@ number: 4000
 ---
 Traininghub permette di gestire i training eseguiti dai dipendenti.
 
-La lista dei training da eseguire mostra l'elenco di tutti i training creati dall'istruttore e non ancora eseguiti. Per ciascun training, l'istruttore può, premendo "Aggiorna", aggiornarne i dettagli, oppure può, premendo "Inizia registrazioni", abilitare la registrazione dei partecipanti. Per ciascun training è inoltre possibile gestirne gli allegati, cliccando sul pulsante "Gestisci allegati".
+La lista dei training da eseguire mostra l'elenco di tutti i training creati dall'istruttore e non ancora eseguiti. Per ciascun training, l'istruttore può, premendo "Aggiorna", aggiornarne i dettagli, oppure può, premendo "Inizia registrazioni", abilitare la registrazione dei partecipanti.
 
 La lista dei training eseguiti mostra l'elenco di tutti i training terminati per i quali l'istruttore deve completare la valutazione. Per ciascun training eseguito, l'istruttore può, premendo "Valuta", procedere alla valutazione.
 
