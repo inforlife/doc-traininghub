@@ -15,8 +15,6 @@ Se il codice identificativo è corretto, la partecipazione del dipendente, visua
 
 Per dichiarare la fine del training, cliccare sul pulsante 'Termina training'.
 
-_Nota: Nel caso in cui non tutti i dipendenti abbiamo eseguito il check-out, viene visualizzato un messaggio che avverte di questo fatto. L'istruttore può decidere di tornare alla pagina di chiusura oppure di terminare il training._
-
 Se necessario, inserire il proprio commento nel relativo campo.
 Confermare la propria identità inserendo la password e premere SALVA per procedere con la registrazione della fine del training.
 
@@ -28,4 +26,4 @@ Se il codice identificativo è corretto, la partecipazione del dipendente, visua
 Quando tutti i partecipanti hanno eseguito il check-out, l'istruttore deve dichiarare la chiusura effettiva del training. Ciò può essere fatto dalla pagina relativa ai dettagli di un training finito, cliccando sul pulsante 'Chiudi training'.
 Confermare la propria identità inserendo la password e premere SALVA per procedere con la chiusura del training.
 
-_Nota: Se per qualsiasi motivo un dipendente non ha eseguito il check-out e non è più presente nel luogo di esecuzione del training, l'istruttore può comunque procedere alla chiusura del training, segnalando nei commenti l'anomalia riscontrata._
+_Nota: Se per qualsiasi motivo un dipendente non ha eseguito il check-out, viene visualizzato un messaggio che avverte di questo fatto. L'istruttore può decidere di tornare alla pagina di chiusura oppure di terminare il training. Nel caso in cui chi non ha effettuato il check-out non è più presente nel luogo di esecuzione del training, L'istruttore può segnalare nei commenti l'anomalia riscontrata._
