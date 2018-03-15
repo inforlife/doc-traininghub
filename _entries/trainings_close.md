@@ -14,7 +14,10 @@ Quando un dipendente lascia un training, deve eseguire il check-out. Per fare ci
 Se il codice identificativo è corretto, la partecipazione del dipendente, visualizzata sotto la voce "Partecipanti registrati", viene aggiornata indicando l'ora di check-out.
 
 Per dichiarare la fine del training, cliccare sul pulsante 'Termina training'.
-Se necessario, inserire il proprio commento nel relativo campo. 
+
+_Nota: Nel caso in cui non tutti i dipendenti abbiamo eseguito il check-out, viene visualizzato un messaggio che avverte di questo fatto. L'istruttore può decidere di tornare alla pagina di chiusura oppure di terminare il training._
+
+Se necessario, inserire il proprio commento nel relativo campo.
 Confermare la propria identità inserendo la password e premere SALVA per procedere con la registrazione della fine del training.
 
 _Nota: Premendo il pulsante SALVA, viene definita l'ora di fine del training. Il training deve quindi essere dichiarato come finito nel momento in cui l'istruttore termina effettivamente le attività di addestramento._
