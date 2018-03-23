@@ -4,7 +4,7 @@ sectionclass: h2
 is-parent: yes
 title: Dipendenti
 number: 3300
-parent_id: access_management
+parent_id: admin
 ---
 La lista dei dipendenti mostra di default tutti i dipendenti attivi presenti nell’applicazione. Per ogni dipendente attivo è possibile, premendo "Dettagli", consultarne i dettagli; aggiornarlo, premendo "Aggiorna", nel caso si debba modificarne i dettagli oppure, premendo "Disattiva", disattivarlo nel caso in cui sia terminato il suo rapporto lavorativo.
 
