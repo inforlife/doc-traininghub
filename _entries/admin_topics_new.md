@@ -9,7 +9,7 @@ Per aggiungere un argomento è necessario definirne la descrizione, il codice (l
 
 Una volta inserite tutte le informazioni richieste confermare la propria identità inserendo la password e premere SALVA.
 
-_Nota: Le mansioni selezionabili come responsabili sono limitate ad un sottoinsieme di tutte le mansioni. Nel caso in cui non ti trovi la mansione desiderata, contattare l'ufficio IT il quale provvederà ad aggiungere quanto richiesto._
+_Nota: Le mansioni selezionabili come responsabili sono limitate ad un sottoinsieme di tutte le mansioni. Nel caso in cui non si trovi la mansione desiderata, contattare l'ufficio IT il quale provvederà ad aggiungere quanto richiesto._
 
 Se la creazione si è conclusa con successo, viene visualizzata la lista degli argomenti attivi, ovvero per i quali è possibile creare uan sessione di training. In caso di errori, invece, viene mostrato il form di creazione con i suggerimenti per la loro correzione.
 

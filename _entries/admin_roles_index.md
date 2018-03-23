@@ -4,7 +4,7 @@ sectionclass: h2
 is-parent: yes
 title: Ruoli
 number: 3200
-parent_id: access_management
+parent_id: admin
 ---
 TrainingHub ha un sistema di autorizzazione basato su ruoli. Ad ogni utente è associato un ruolo che ne definisce le attività consentite.
 
