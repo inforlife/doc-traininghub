@@ -5,7 +5,7 @@ title: Creare un training
 number: 4100
 parent_id: trainings_index
 ---
-Per aprire un nuovo training è necessario definirne la descrizione, il codice, l'edizione, l'eventuale data dell'edizione e selezionare dalle liste predefinite l'istruttore, la motivazione, il luogo di esecuzione, la modalità di verifica e, se necessario, il nome dell'utente che dovrà autorizzare i dipendenti a seguito del periodo di affiancamento.
+Per aprire un nuovo training è necessario definirne la descrizione, il codice, l'edizione, l'eventuale data dell'edizione e selezionare dalle liste predefinite l'istruttore, la motivazione, la modalità di verifica e, se necessario, il nome dell'utente che dovrà autorizzare i dipendenti a seguito del periodo di affiancamento.
 
 _Nota: Nel caso di training relativo ad una procedura, il codice del training corrisponde al codice della SOP e la data dell'edizione corrisponde alla data di scrittura della SOP._
 
