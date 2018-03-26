@@ -6,7 +6,7 @@ number: 4200
 parent_id: trainings_index
 ---
 Dalla pagina relativa ai dettagli di un training creato, è possibile aprire il training cliccando su 'Inizia registrazioni'.
-Se necessario, inserire il proprio commento nel relativo campo.
+Selezionare il luogo di esecuzione e, se necessario, inserire il proprio commento nel relativo campo.
 Confermare la propria identità inserendo la password e premere SALVA per procedere con la registrazione dell'apertura del training. 
 
 Prima di dichiarare l'inizio effettivo di un training è necessario registrare tutti i partecipanti.
