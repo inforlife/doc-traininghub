@@ -5,9 +5,11 @@ title: Creare un training
 number: 4100
 parent_id: trainings_index
 ---
-Per aprire un nuovo training è necessario definirne la descrizione, il codice, l'edizione, l'eventuale data dell'edizione e selezionare dalle liste predefinite l'istruttore, la motivazione, il luogo di esecuzione, la modalità di verifica e, se necessario, il nome dell'utente che dovrà autorizzare i dipendenti a seguito del periodo di affiancamento.
+Per aprire un nuovo training è necessario selezionare dalle liste predefinite gli argomenti, l'istruttore, la motivazione, il luogo di esecuzione, la modalità di verifica e, se necessario, il nome dell'utente che dovrà autorizzare i dipendenti a seguito del periodo di affiancamento.
 
-_Nota: Nel caso di training relativo ad una procedura, il codice del training corrisponde al codice della SOP e la data dell'edizione corrisponde alla data di scrittura della SOP._
+_Nota: È possibile selezionare argomenti multipli. Per filtrare la lista degli argomenti disponibili iniziare a digitare codice o descrizione dell'argomento che si vuole selezionare nel campo al di sopra delle opzioni._
+
+_Nota: Nel caso di training relativo ad una procedura, il codice dell'argomento corrisponde al codice della SOP._
 
 _Nota: La necessità di definire l'utente autorizzatore viene stabilita sulla base della motivazione selezionata: solo alcune delle motivazioni (esempio: nuova assunzione o cambio mansione) richiedono la fase di autorizzazione._
 
