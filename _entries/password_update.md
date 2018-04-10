@@ -9,4 +9,4 @@ All'approvazione del proprio account (o alla riattivazione in caso questo si ren
 
 Una volta in possesso delle proprie credenziali, è possibile accedere a TrainingHub inserendo indirizzo di posta elettronica e password.
 
-_Nota: Nel caso di tre consecutivi accessi falliti a causa dell'inserimento di password errata, l'utente sarà disattivato._
+_Nota: Nel caso di tre login falliti a causa dell'inserimento di password errata nell'arco delle ultime due ore, l'utente sarà disattivato._
