@@ -9,6 +9,8 @@ Per aprire un nuovo training è necessario selezionare dalle liste predefinite g
 
 _Nota: È possibile selezionare argomenti multipli. Per filtrare la lista degli argomenti disponibili iniziare a digitare codice o descrizione dell'argomento che si vuole selezionare nel campo al di sopra delle opzioni._
 
+_Nota: Nel caso in cui non si trovasse l'argomento desiderato (o l'edizione non sia quella corrente), conttatare il QA per l'inserimento (aggiornamento) dell'argomento._
+
 _Nota: Nel caso di training relativo ad una procedura, il codice dell'argomento corrisponde al codice della SOP._
 
 _Nota: La necessità di definire l'utente autorizzatore viene stabilita sulla base della motivazione selezionata: solo alcune delle motivazioni (esempio: nuova assunzione o cambio mansione) richiedono la fase di autorizzazione._
