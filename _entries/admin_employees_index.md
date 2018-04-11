@@ -13,4 +13,4 @@ I dipendenti sono visualizzati in ordine alfabetico e suddivisi su più pagine. 
 Per aggiungere un nuovo dipendente, premere il pulsante nell’angolo superiore destro con il segno +.
 
 
-Per accedere alla lista dei dipendenti disattivati, premere il pulsante VEDI DISATTIVATI. Per ogni dipendente disattivato è possibile solo consultarne i dettagli, premendo "Dettagli", non è possibile aggiornarlo o riattivarlo. Per tornare alla lista dei dipendenti attivi, cliccare sul pulsante VEDI ATTIVI.
+Per accedere alla lista dei dipendenti disattivati, premere il pulsante "CAMBIA STATO" e poi "disattivati". Per ogni dipendente disattivato è possibile, premendo "Dettagli", consultarne i dettagli. Non è possibile aggiornarlo o riattivarlo. Per tornare alla lista dei dipendenti attivi, cliccare sul pulsante "CAMBIA STATO" e poi "attivi".
