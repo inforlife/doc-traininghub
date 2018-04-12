@@ -5,7 +5,7 @@ title: Creare un training
 number: 4100
 parent_id: trainings_index
 ---
-Per aprire un nuovo training è necessario selezionare dalle liste predefinite gli argomenti, l'istruttore, la motivazione, il luogo di esecuzione, la modalità di verifica e, se necessario, il nome dell'utente che dovrà autorizzare i dipendenti a seguito del periodo di affiancamento.
+Per aprire un nuovo training è necessario selezionare dalle liste predefinite gli argomenti, l'istruttore, la motivazione, la modalità di verifica e, se necessario, il nome dell'utente che dovrà autorizzare i dipendenti a seguito del periodo di affiancamento.
 
 _Nota: È possibile selezionare argomenti multipli. Per filtrare la lista degli argomenti disponibili iniziare a digitare codice o descrizione dell'argomento che si vuole selezionare nel campo al di sopra delle opzioni._
 
