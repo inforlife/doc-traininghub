@@ -2,7 +2,7 @@
 sectionid: admin_topics_disable
 sectionclass: h3
 title: Disattivare un argomento
-number: 3440
+number: 3430
 parent_id: admin_topics_index
 ---
 Dopo aver cliccato sul pulsante "Disattiva", posto in corrispondenza dell'argomento che si desidera disattivare, nella parte bassa della pagina viene visualizzato il form di conferma della propria identità in cui deve essere inserita la password.
