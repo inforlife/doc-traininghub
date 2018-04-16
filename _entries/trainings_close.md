@@ -15,6 +15,9 @@ Se il codice identificativo è corretto, la partecipazione del dipendente, visua
 
 Per dichiarare la fine del training, cliccare sul pulsante 'Termina training'.
 
+In questa fase è possibile aggiungere (o rimuovere) argomenti trattati duarnte la sessione di training. Per fare ciò cliccare sul pulsante "Gestisci argomenti". Selezionare gli argomenti da aggiungere (o deselezionare quelli da rimuovere) e, se necessario, inserire il proprio commento nel relativo campo.
+Confermare la propria identità inserendo la password e premere SALVA per procedere con la modifica degli argomenti associati alla sessione di training.
+
 Se necessario, inserire il proprio commento nel relativo campo.
 Confermare la propria identità inserendo la password e premere SALVA per procedere con la registrazione della fine del training.
 
