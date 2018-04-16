@@ -5,7 +5,7 @@ title: Finire un training
 number: 4300
 parent_id: trainings_index
 ---
-Dalla pagina relativa ai dettagli di un training iniziato è possibile visualizzare l'elenco dei partecipanti registrati e dichiarare la fine del training.
+Dalla pagina relativa ai dettagli di un training iniziato è possibile visualizzare l'elenco dei partecipanti registrati, gestire gli argomenti del training e dichiarare la fine del training.
 
 L'elenco dei partecipanti al training è visualizzato sotto la voce "Partecipanti registrati".
 
@@ -13,10 +13,10 @@ Un partecipante può lasciare un training durante la sua esecuzione. Questo può
 Quando un dipendente lascia un training, deve eseguire il check-out. Per fare ciò è necessario posizionarsi nel campo "Codice identificativo dipendente", scansionare il barcode del dipendente con apposito lettore e premere il tasto invio.
 Se il codice identificativo è corretto, la partecipazione del dipendente, visualizzata sotto la voce "Partecipanti registrati", viene aggiornata indicando l'ora di check-out.
 
-Per dichiarare la fine del training, cliccare sul pulsante 'Termina training'.
-
 In questa fase è possibile aggiungere (o rimuovere) argomenti trattati duarnte la sessione di training. Per fare ciò cliccare sul pulsante "Gestisci argomenti". Selezionare gli argomenti da aggiungere (o deselezionare quelli da rimuovere) e, se necessario, inserire il proprio commento nel relativo campo.
 Confermare la propria identità inserendo la password e premere SALVA per procedere con la modifica degli argomenti associati alla sessione di training.
+
+Per dichiarare la fine del training, cliccare sul pulsante 'Termina training'.
 
 Se necessario, inserire il proprio commento nel relativo campo.
 Confermare la propria identità inserendo la password e premere SALVA per procedere con la registrazione della fine del training.
