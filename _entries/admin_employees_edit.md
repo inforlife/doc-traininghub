@@ -5,7 +5,7 @@ title: Aggiornare un dipendente
 number: 3320
 parent_id: admin_employees_index
 ---
-Quando si aggiorna un dipendente è possibile modificarne il nome, il cognome e il dipartimento. 
+Quando si aggiorna un dipendente è possibile modificarne il nome, il cognome, la data di assunzione e le mansioni. 
 
 Una volta modificato il dipendente, confermare la propria identità inserendo la password e premere SALVA.
 
