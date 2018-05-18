@@ -12,5 +12,6 @@ Gli argomenti sono visualizzati in ordine di codice e suddivisi su più pagine. 
 
 Per aggiungere un nuovo argomento, premere il pulsante nell’angolo superiore destro con il segno +.
 
-
 Per accedere alla lista degli argomenti disattivati, premere il pulsante "CAMBIA STATO" e poi "disattivati". Per ogni argiomento disattivato è possibile, premendo "Dettagli", consultarne i dettagli. Non è possibile aggiornarlo o riattivarlo. Per tornare alla lista degli argomenti attivi, cliccare sul pulsante "CAMBIA STATO" e poi "attivi".
+
+_Nota: Gli argomenti relativi alle SOP vengono automaticamente creati o aggiornati (aumento di edizione) al completamento dell'approvazione del documento in SOP Connect._
