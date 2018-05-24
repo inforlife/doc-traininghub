@@ -16,3 +16,5 @@ La lista dei training in attesa di autorizzazione mostra l'elenco di tutti i tra
 _Nota: I training per i quali il periodo di affiancamento può ritenersi concluso, ovvero per i quali sono trascorsi più di 30 giorni dall'esecuzione, hanno data di esecuzione evidenziata in verde._
 
 La lista dei training valutati mostra l'elenco di tutti i training valutati dagli istruttori per i quali è necessaria la verifica. Per ciascun training valutato, gli utenti con il privilegio di 'Revisione training' possono, premendo "Aggiorna", correggerne i dettagli, oppure premendo "Verifica", procedere alla verifica.
+
+_Nota: Le prime sessioni di training relative all'introduzione o all'aggiornamento di SOP vengono automaticamente create al completamento dell'approvazione del documento in SOP Connect._
