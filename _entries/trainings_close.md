@@ -13,7 +13,7 @@ Un partecipante può lasciare un training durante la sua esecuzione. Questo può
 Quando un dipendente lascia un training, deve eseguire il check-out. Per fare ciò è necessario posizionarsi nel campo "Codice identificativo dipendente", scansionare il barcode del dipendente con apposito lettore e premere il tasto invio.
 Se il codice identificativo è corretto, la partecipazione del dipendente, visualizzata sotto la voce "Partecipanti registrati", viene aggiornata indicando l'ora di check-out.
 
-In questa fase è possibile aggiungere (o rimuovere) argomenti trattati duarnte la sessione di training. Per fare ciò cliccare sul pulsante "Gestisci argomenti". Selezionare gli argomenti da aggiungere (o deselezionare quelli da rimuovere) e, se necessario, inserire il proprio commento nel relativo campo.
+In questa fase è possibile aggiungere (o rimuovere) argomenti trattati durante la sessione di training. Per fare ciò cliccare sul pulsante "Gestisci argomenti". Selezionare, nella schermata che appare, gli argomenti da aggiungere o deselezionare quelli da rimuovere.
 Confermare la propria identità inserendo la password e premere SALVA per procedere con la modifica degli argomenti associati alla sessione di training.
 
 Per dichiarare la fine del training, cliccare sul pulsante 'Termina training'.
