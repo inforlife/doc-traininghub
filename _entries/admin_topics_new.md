@@ -15,4 +15,4 @@ Se la creazione si è conclusa con successo, viene visualizzata la lista degli a
 
 _Nota: Il sistema non permette di definire due argomenti aventi lo stesso codice._
 
-_Nota: Gli argomenti relativi alle SOP vengono automaticamente creati o aggiornati (aumento di edizione) al completamento dell'approvazione del documento in SOP Connect._
+_Nota: Gli argomenti relativi alle SOP vengono automaticamente creati o aggiornati (aumento di edizione) al completamento dell'approvazione del documento in SOP Connect. Essi vengono inoltre automaticamente aggiornati (aumento di edizione effettiva) quando un documento viene reso effettivo in SOP Connect._
