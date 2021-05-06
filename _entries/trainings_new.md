@@ -13,6 +13,8 @@ _Nota: Nel caso in cui non si trovasse l'argomento desiderato (o l'edizione non 
 
 _Nota: Nel caso di training relativo ad una procedura, il codice dell'argomento corrisponde al codice della SOP._
 
+_Nota: Per ciascun argomento è possibile selezionare l'edizione corrente o quella effettiva (meno recente rispetto all'edizione corrente)._
+
 _Nota: La necessità di definire l'utente autorizzatore viene stabilita sulla base della motivazione selezionata: solo alcune delle motivazioni (esempio: nuova assunzione o cambio mansione) richiedono la fase di autorizzazione._
 
 Una volta inserite tutte le informazioni richieste, confermare la propria identità inserendo la password e premere SALVA.
