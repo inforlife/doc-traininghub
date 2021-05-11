@@ -7,6 +7,8 @@ parent_id: admin_employees_index
 ---
 Per aggiungere un dipendente è necessario definirne il nome, il cognome, la data di assunzione e le mansioni (selezionabili da una lista predefinita). 
 
+_Nota: Solo le mansioni attive sono selezionabili._
+
 Una volta inserite tutte le informazioni richieste confermare la propria identità inserendo la password e premere SALVA.
 
 Se la creazione si è conclusa con successo, viene visualizzata la lista dei dipendenti non ancora attivati, ovvero creati ma per i quali non è ancora stata stampata l'etichetta identificativa. In caso di errori, invece, viene mostrato il form di creazione con i suggerimenti per la loro correzione.

@@ -7,6 +7,8 @@ parent_id: admin_topics_index
 ---
 Per aggiungere un argomento è necessario definirne la descrizione, il codice (limitato a sette caratteri), l'edizione corrente, l'edizione effettiva, la tipologia di esecuzione, la frequenza di esecuzione (in mesi) nel caso in cui si sia selezionato periodica come tipologia, l'utente responsabile dell'esecuzione dei training per l'argomento e se può essere eseguito come training autonomo. Se disponibili, possono inoltre essere indicate le mansioni che devono partecipare alle sessioni di training per l'argomento. In caso contrario potranno essere definite in un secondo momento.
 
+_Nota: Solo le mansioni attive sono selezionabili._
+
 _Nota: L'edizione corrente è l'ultima edizione approvata per l'argomento, che potrebbe ancora non essere effettiva. Per questo motivo, l'edizione effettiva deve essere minore o uguale all'edizione corrente._
 
 Una volta inserite tutte le informazioni richieste confermare la propria identità inserendo la password e premere SALVA.
