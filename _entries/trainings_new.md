@@ -22,3 +22,6 @@ Una volta inserite tutte le informazioni richieste, confermare la propria identi
 Se la creazione si è conclusa con successo, viene visualizzata la lista dei training in attesa di esecuzione. In caso di errori, invece, viene mostrato il form di creazione con i suggerimenti per la loro correzione.
 
 Dalla lista dei training in attesa di esecuzione è possibile, cliccando 'Aggiorna', aggiornare i dettagli del training, se invece si desidera iniziare l'esecuzione del training cliccare sul pulsante 'Dettagli'.
+
+
+_Nota: Per i training che verranno eseguiti come autonomi, non essendo prevista la fase di valutazione, la 'Modalità di verifica' da selezionare durante la creazione del training è 'Non necessaria'. Per i training autonomi non è previsto periodo di affiancamento, quindi non devono essere selezionate motivazioni che prevendono autorizzazione.
