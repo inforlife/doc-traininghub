@@ -9,7 +9,7 @@ La ricerca storico training permette di trovare partecipazioni ad uno o più tra
 
  - Descrizione training
  - Stato training: Lo stato in cui attualmente si trova il training.
- - Se il training è stato eseguito come autonomo.
+ - Modalità di esecuzione: La modalità con cui è stato eseguito il training (con istruttore o autonomo).
  - Luogo: Il luogo in cui il training è stato effettuato.
  - Motivazione: La motivazione per cui il training è stato effettuato.
  - Codice training: Il codice del training (nel caso di training relativo a SOP, questo codice è quello della SOP).
