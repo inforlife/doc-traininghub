@@ -1,7 +1,7 @@
 full_rebuild: true
 name: TrainingHub
 author: InfoRLife
-version: 2021.2
+version: 2023.1
 encoding: utf-8
 defaults:
   -
